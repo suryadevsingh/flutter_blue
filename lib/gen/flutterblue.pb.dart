@@ -40,7 +40,7 @@ class Int32Value extends $pb.GeneratedMessage {
 
 class BluetoothState extends $pb.GeneratedMessage {
   static final $pb.BuilderInfo _i = $pb.BuilderInfo('BluetoothState')
-    ..e<BluetoothState_State>(1, 'state', $pb.PbFieldType.OE, BluetoothState_State.UNKNOWN, BluetoothState_State.valueOf, BluetoothState_State.values)
+    ..e<BluetoothState_State>(1, "state", $pb.PbFieldType.OE, BluetoothState_State.UNKNOWN, BluetoothState_State.valueOf, BluetoothState_State.values)
     ..hasRequiredFields = false
   ;
 
